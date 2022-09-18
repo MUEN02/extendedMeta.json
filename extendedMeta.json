@@ -1,0 +1,21 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://user-images.githubusercontent.com/83693022/153592808-ad3800ba-2b5c-4bb3-928f-ed2763001470.jpeg",
+        "url_png_logo": "https://user-images.githubusercontent.com/83693022/153593369-e196310b-4b53-45b9-aae6-9f3926855619.jpeg",
+        "location": "Fukuoka, Japan",
+        "social": {
+            "twitter_handle":"slowhand4040",
+            "telegram_handle":"Satsuma MUEN",
+            "discord_handle":"Muen_satsuma#6184",
+            "github_handle":"MUEN02"
+        },
+        "about": {
+            "me": "Our company runs Muen-project, a planning company that provides outsourced pharmacist services, SPO, underwater photography, guesthouse management advisory services, and outdoor store management.認定NPO法人や地方自治体・福祉施設や自然保護団体など社会貢献活動をしている方々のお役に立ちたいとの思いから作ったプールです：）",
+            "server": " VPS L　8 vCPU 32GiB RAM. 200 GB NVMe10 3 Snapshots. Highly secure and high availability with failover architecture."
+        }
+    },
+    "my-pool-ids": {
+        "0": "pool1l6vtae673eltsx86sk4xxr3fnn9tk8e99jkrdvcmjqlc6cca4nk"
+    }
+}
