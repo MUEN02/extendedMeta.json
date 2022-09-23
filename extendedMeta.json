@@ -1,7 +1,7 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "https://user-images.githubusercontent.com/113491395/190896197-e28805fb-1e28-4e23-b991-01ccfc9375a4.jpg",
+        "url_png_icon_64x64": "https://user-images.githubusercontent.com/113491395/191931429-7e7149f7-ac1b-4dfe-b364-6625b2d05675.jpg",
         "url_png_logo": "https://user-images.githubusercontent.com/113491395/191902472-6d741744-c977-46bb-bf1f-988aa791cc5a.jpg",
         "location": "Fukuoka, Japan",
         "social": {
